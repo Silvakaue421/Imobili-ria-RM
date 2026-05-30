@@ -114,15 +114,3 @@ if gerar_csv.lower() == "s":
 #Fim do Programa
 
 print("\nSistema finalizado.")
-
-
-
-
-    
-     
-
-    
-     
-
-
-1
